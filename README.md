@@ -2,7 +2,7 @@
 
 ## From the [LearnWeb3DAO](https://learnweb3.io) Sophomore course
 
-Have a look at [https://first-dex-sophomore.vercel.app/](https://first-dex-sophomore.vercel.app/)
+Have a look at [https://first-decentralized-exchange.vercel.app/](https://first-decentralized-exchange.vercel.app/)
 
 Lesson "Build your NFT Collection" has to be completed first:
 
